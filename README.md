@@ -1,2 +1,0 @@
-# zipfinder
-Created with CodeSandbox
